@@ -21,7 +21,18 @@ Bu proje Visual Studio Code ortamında geliştirildi.
 
 ### Kullanılan Kütüphaneler:
 
+#### Custom Tkinter <img src="https://styles.redditmedia.com/t5_8tx64t/styles/communityIcon_kbz7e49k7obb1.png" width="35" align="left">
+<br>
 
+
+#### PIL<img src="https://python-pillow.github.io/assets/images/pillow-logo-248x250.png" width="35" align="left">
+<br>
+
+#### Tkinter <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI0t0Y9CTxpGbvzomIpNd5bb4e-8lny0qrPJLBygCDMTNroCdk7FH9icIGwHPO7-SdPYBZWnvs7-I7aSf1F03kmFlFsCMdKNBMFd7B8_VGkxMQgKYhYHXJy76TxjdJERo_tNuoxkn3QgU/s200/tkinter-pluma.png" width="35" align="left">
+<br>
+
+#### itertools <img src="https://mblogthumb-phinf.pstatic.net/MjAyMjA5MjFfMjAy/MDAxNjYzNzQ1MDYyMjcx.z7s3EiUTtxU1b2QJKhm5vb-hjrnY0GEhbXBaM0T8JXwg.UVRvOE9qXushbX1qU73LYz7JTHSCsz7LWbRoknhKQM4g.PNG.dldudcks1779/Python.png?type=w800" width="35" align="left">
+<br>
 
 
 
