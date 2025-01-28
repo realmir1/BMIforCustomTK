@@ -11,7 +11,7 @@ Bu proje, kullanıcıların vücut kitle indeksini (BMI) hesaplayabilecekleri bi
 
 Bu proje Python programlama dili ile geliştirilmiştir.
 <br>
-<p align="center"> <img src="https://ideacdn.net/idea/ct/82/myassets/blogs/python-avantaj.jpg?revision=1581874510" width=500, height=300></p>
+<p align="center"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da9f8649-8d19-4c2b-b05a-d90030b5379a/dgvsjw9-cf0faf00-135d-4ddf-9aae-e804f3a03dff.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RhOWY4NjQ5LThkMTktNGMyYi1iMDVhLWQ5MDAzMGI1Mzc5YVwvZGd2c2p3OS1jZjBmYWYwMC0xMzVkLTRkZGYtOWFhZS1lODA0ZjNhMDNkZmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.f7QVqCLwSK2Jh_p_riqNrx4qT-WE2V9H8OTmykPyd4Y" width=500, height=300></p>
 
 ### Geliştirildiği Ortam:
 
@@ -109,10 +109,5 @@ Uygulama açıldığında, aşağıdaki adımları izleyebilirsiniz:
 
 
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
-
----
 
 
