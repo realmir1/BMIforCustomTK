@@ -52,22 +52,13 @@ Bu proje Visual Studio Code ortamında geliştirildi.
 - Kullanıcı dostu yerleşim ve metin düzenlemeleri.
 - Arka planda görsel bir öğe kullanımı.
 
+### Arayüz Görüntüsü:
+
+<p align="center"> <img src="https://github.com/realmir1/BMIforCustomTK/blob/main/Ekran%20Resmi%202025-01-28%2013.08.31.png?raw=true" width=600, height=700></p>
+
 ---
 
 ## Gereksinimler
-
-Bu projeyi çalıştırabilmek için aşağıdaki kütüphanelerin yüklü olması gerekmektedir:
-
-- **PIL** (Python Imaging Library)
-- **Tkinter** (Python GUI kütüphanesi)
-
-Bu kütüphaneleri yüklemek için şu komutları kullanabilirsiniz:
-
-```bash
-pip install pillow
-```
-
-**Tkinter** genellikle Python ile birlikte gelir, ancak yoksa sisteminize göre aşağıdaki komut ile yükleyebilirsiniz:
 
 - **Windows**: Tkinter genellikle Python ile birlikte gelir.
 - **macOS/Linux**: Tkinter yüklemek için `brew install python-tk` veya sisteminizin paket yöneticisini kullanabilirsiniz.
