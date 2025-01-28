@@ -107,17 +107,7 @@ Uygulama açıldığında, aşağıdaki adımları izleyebilirsiniz:
 
 ---
 
-## Geliştirme
 
-Bu projeyi geliştirirken veya katkı sağlarken aşağıdaki adımları izleyebilirsiniz:
-
-1. Bu depoyu çatallayın (fork).
-2. Yeni bir branch oluşturun (`git checkout -b feature-name`).
-3. Yaptığınız değişiklikleri commit edin (`git commit -am 'Added new feature'`).
-4. Branch'ınızı GitHub'da push edin (`git push origin feature-name`).
-5. Bir pull request oluşturun.
-
----
 
 ## Lisans
 
