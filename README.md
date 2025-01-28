@@ -3,7 +3,16 @@
 
 # Vücut Kitle İndeksi (BMI) Hesaplayıcı
 
-Bu proje, kullanıcıların vücut kitle indeksini (BMI) hesaplayabilecekleri bir GUI uygulaması sunmaktadır. Uygulama, kullanıcıdan kilo ve boy bilgilerini alır ve ardından bu bilgilere göre BMI hesaplar. Hesaplanan BMI'ya göre, kullanıcıya vücut tipi (Zayıf, Normal, Fazla Kilolu, Obez) hakkında bilgi verir.
+Bu proje, kullanıcıların vücut kitle indeksini (BMI) hesaplayabilecekleri bir GUI uygulaması sunmaktadır. Uygulama, kullanıcıdan kilo ve boy bilgilerini alır ve ardından bu bilgilere göre BMI hesaplar. Hesaplanan BMI'ya göre, kullanıcıya vücut tipi (Zayıf, Normal, Fazla Kilolu, Obez) hakkında bilgi verir. Python ile geliştirilmiştir.
+
+
+
+
+
+
+
+
+
 
 ### Özellikler:
 - Kilo ve boy için kullanıcı dostu giriş alanları.
@@ -88,5 +97,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](L
 
 ---
 
-Bu README, projenizi GitHub'da paylaşırken kullanıcıların nasıl kurulum yapacakları ve kullanacakları hakkında bilgi sağlamanızı amaçlamaktadır. Eğer ek özellikler eklemeyi planlıyorsanız, buraya ek açıklamalar veya geliştirme rehberleri de ekleyebilirsiniz.
 
